@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3A0064075E36FA90F07CD4B38F312BE01B08BCCD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3A0064075E36FA90F07CD4B38F312BE01B08BCCD" : 0,
+    "AC08F8ED5154CCE57BDA7EF28E8F9CEC4241D1B8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "67FD7CFD-91F1-4844-9026-C1DD71587465",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3A0064075E36FA90F07CD4B38F312BE01B08BCCD" : "Drag%20and%20Drop\/",
+    "AC08F8ED5154CCE57BDA7EF28E8F9CEC4241D1B8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Drag and Drop",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Drag and Drop.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/soggybag\/Drag-and-Drop.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A0064075E36FA90F07CD4B38F312BE01B08BCCD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/soggybag\/WNM-801.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC08F8ED5154CCE57BDA7EF28E8F9CEC4241D1B8"
+    }
+  ]
+}
