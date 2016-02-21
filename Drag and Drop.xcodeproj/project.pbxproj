@@ -19,6 +19,8 @@
 		7B4BFBEE1C76E1D5008ED202 /* o.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B4BFBEA1C76E1D5008ED202 /* o.png */; };
 		7B4BFBEF1C76E1D5008ED202 /* p.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B4BFBEB1C76E1D5008ED202 /* p.png */; };
 		7B4BFBF01C76E1D5008ED202 /* q.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B4BFBEC1C76E1D5008ED202 /* q.png */; };
+		7BAECA471C798D3700E4D4C9 /* DragScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAECA461C798D3700E4D4C9 /* DragScene.swift */; };
+		7BAECA491C798D5D00E4D4C9 /* DragNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAECA481C798D5D00E4D4C9 /* DragNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		7B4BFBEA1C76E1D5008ED202 /* o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = o.png; sourceTree = "<group>"; };
 		7B4BFBEB1C76E1D5008ED202 /* p.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = p.png; sourceTree = "<group>"; };
 		7B4BFBEC1C76E1D5008ED202 /* q.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = q.png; sourceTree = "<group>"; };
+		7BAECA461C798D3700E4D4C9 /* DragScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragScene.swift; sourceTree = "<group>"; };
+		7BAECA481C798D5D00E4D4C9 /* DragNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 				7B4BFBD31C76DC2C008ED202 /* art.scnassets */,
 				7B4BFBD51C76DC2C008ED202 /* GameViewController.swift */,
 				7B4BFBE51C76DD29008ED202 /* GameScene.swift */,
+				7BAECA481C798D5D00E4D4C9 /* DragNode.swift */,
+				7BAECA461C798D3700E4D4C9 /* DragScene.swift */,
 				7B4BFBD71C76DC2C008ED202 /* Main.storyboard */,
 				7B4BFBDA1C76DC2C008ED202 /* Assets.xcassets */,
 				7B4BFBDC1C76DC2C008ED202 /* LaunchScreen.storyboard */,
@@ -164,6 +170,8 @@
 			files = (
 				7B4BFBE61C76DD29008ED202 /* GameScene.swift in Sources */,
 				7B4BFBD61C76DC2C008ED202 /* GameViewController.swift in Sources */,
+				7BAECA471C798D3700E4D4C9 /* DragScene.swift in Sources */,
+				7BAECA491C798D5D00E4D4C9 /* DragNode.swift in Sources */,
 				7B4BFBD21C76DC2C008ED202 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -312,6 +320,7 @@
 				7B4BFBE41C76DC2C008ED202 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
